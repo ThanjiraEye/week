@@ -1,3 +1,3 @@
 print {"hello"}
-print {"nickname:Eye"}
 print {"name:thanjira"}
+print {"age:21"}
