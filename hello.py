@@ -1,2 +1,3 @@
 print {"hello"}
-print {"Eye"}
+print {"nickname:Eye"}
+print {"name:thanjira"}
